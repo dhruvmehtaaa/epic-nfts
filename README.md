@@ -1,3 +1,3 @@
 # Basic Random NFT Generator 
 
-Live on https://replit.com/@DhruvMehta9/nft-starter-project-1#src/App.jsx
+Live on https://nft-starter-project-1.dhruvmehta9.repl.co/
